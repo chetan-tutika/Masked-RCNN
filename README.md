@@ -1,8 +1,8 @@
 # Masked-RCNN
 Implemented the following <br/>
-[x] Region Proposal Network (RPN)<br/>
-[x] RoI Align which extends RoI pooling<br/>
-[x] the MaskRCNN architecture by adding the object detection heads of FasterRCNN and
+- [x] Region Proposal Network (RPN)<br/>
+- [x] RoI Align which extends RoI pooling<br/>
+- [x] the MaskRCNN architecture by adding the object detection heads of FasterRCNN and
 a parallel mask branch
 
 ## Results
