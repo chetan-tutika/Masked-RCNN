@@ -11,5 +11,5 @@ a parallel mask branch
 ### Output2
 ![mask2](https://user-images.githubusercontent.com/41950483/71800694-c22d9080-307e-11ea-86c1-b9cbbf336a22.png)<br/>
 RPN - Cyan<br/>
-Predicted Bounding Box - Magneta<br/>
-True Bounding Box - Red
+Predicted Bounding Box - Red / Blue<br/>
+True Bounding Box - Magneta
